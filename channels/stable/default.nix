@@ -8077,7 +8077,7 @@
     sources = {
       all = {
         url = "https://dl.google.com/android/repository/sys-img/google_apis/x86_64-33_r13.zip";
-        sha1 = "50bc7f4082ea5dcb2e51fd65ddf243f934bcb40a";
+        sha1 = "5b041820cd93f48731da9aaa93127b71e3fea826";
       };
     };
     displayName = "Google APIs Intel x86_64 Atom System Image";
