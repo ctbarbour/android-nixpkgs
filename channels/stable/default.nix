@@ -8059,7 +8059,7 @@
     sources = {
       all = {
         url = "https://dl.google.com/android/repository/sys-img/google_apis/arm64-v8a-33_r13.zip";
-        sha1 = "5efee22c6b46ca0b0614d2881e1f8170fbf5649d";
+        sha1 = "fe1cbb00cd94db01c9393df341f937d41fab4b92";
       };
     };
     displayName = "Google APIs ARM 64 v8a System Image";
